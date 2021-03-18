@@ -1,2 +1,3 @@
 # hello-world
-Тест для учебной практики
+
+"So, Traveler. The Mondstadt Windblume Festival. Do you like it?"
